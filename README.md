@@ -1,8 +1,9 @@
-# study-agent-ai
-Repositório para estudo de Agentes de AI
+# Estudo sobre Agente de IA usando LangGraph
+Repositório para estudo de Agentes de AI e para compartilhamento dos arquivos apresentados nos tutoriais do youtube.
 
 # Diretórios:
 - AgentReAct - Implementação da estrutura da um agente ReAct usando LangGraph
+- Agent_RAG_SQL_Simples - Implementação da estrutura da um agente ReAct usando 3 ferramentas para interagir com banco vetorial (via RAG) e banco estruturado SQLite.
 
 # Descrição:
 - O que são **Agentes de IA** e por que são tão importantes.  
@@ -11,6 +12,8 @@ Repositório para estudo de Agentes de AI
 
 # Tutorial no Youtube:
 - Domine Agentes de IA ReAct: Transforme Seus Projetos em Máquinas Autônomas - https://youtu.be/Liv3t45GESc
+- Agentes de IA com Banco Vetorial e SQL no LangGraph: Arquitetura React Passo a Passo em Python - https://youtu.be/q00IDGB0P9c
+
 
 ### Instalação
 
