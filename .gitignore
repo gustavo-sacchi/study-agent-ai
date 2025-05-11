@@ -1,2 +1,6 @@
 .venv
 .env
+.chainlit
+.files
+deep_research_simplificado/.chainlit
+deep_research_simplificado/.files
