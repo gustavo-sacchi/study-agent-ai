@@ -13,6 +13,8 @@ Repositório para estudo de Agentes de AI e para compartilhamento dos arquivos a
 # Tutorial no Youtube:
 - Domine Agentes de IA ReAct: Transforme Seus Projetos em Máquinas Autônomas - https://youtu.be/Liv3t45GESc
 - Agentes de IA com Banco Vetorial e SQL no LangGraph: Arquitetura React Passo a Passo em Python - https://youtu.be/q00IDGB0P9c
+- Construindo nosso sistema de Pesquisa Profunda Web - https://youtu.be/uDKraAVCECU?si=DhVGetowQtLtXMH9
+- Montando um Jogo de 'caça ao tesouro' totalmente orientado por IA - https://youtu.be/i94vpfywdqQ
 
 
 ### Instalação
